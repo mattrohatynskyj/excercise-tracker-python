@@ -24,16 +24,6 @@ This is a simple exercise tracker program written in Python. It allows users to 
 
 3. Follow the on-screen instructions to interact with the exercise tracker.
 
-## Functions
-
-- `main()`: The main function that starts the program.
-- `welcome_header()`: Displays a welcome header.
-- `home()`: Displays the main menu and handles user input.
-- `add_exercise()`: Function to add a new exercise (to be implemented).
-- `view_exercises()`: Function to view all exercises (to be implemented).
-- `remove_exercise()`: Function to remove an exercise (to be implemented).
-- `exit_program()`: Exits the program (to be implemented).
-
 ## Example
 
 When you run the program, you will see the following menu:
